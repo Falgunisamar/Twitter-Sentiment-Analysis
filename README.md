@@ -1,2 +1,4 @@
 # Twitter-Sentiment-Analysis
-Sentiment analysis makes use of machine learning and natural language processing techniques to analyze users' sentiments based on their emotions.
+Sentiment analysis makes use of machine learning and natural language processing techniques to analyze users' sentiments based on their emotions. It focuses not only on polarity that is positive, negative, or neutral but also on feelings and emotions such as happiness, sadness, etc. We can also carry this analysis out from tweets to understand the public's mood towards a brand or for an event like general elections in a country. 
+In your computer science project, you can extract tweets based on specific hashtags and analyze the data using R and Python programming language. R provides TwitteR and Python has tweepy to perform sentiment analysis.
+Performing sentiment analysis on Twitter data in Java involves several steps, including fetching tweets, processing the text, and determining sentiment. Below is an example Java code that uses the Twitter4J library for fetching tweets and the Stanford NLP library for sentiment analysis.
